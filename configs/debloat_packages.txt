@@ -1,0 +1,58 @@
+# ==============================================================================
+# DC VOLTAGE - Jio STB (JMSC200A) Debloat Package Blacklist
+# Model: JMSC200A (4KOTTSTB) | Android 11 | Build 25.1.9
+# ==============================================================================
+
+# --- [1] TR-069 Backdoors & Auto-Update Engines ---
+com.jio.tr069client
+com.jio.httpupdate
+com.jio.usbupdate
+
+# --- [2] Telemetry, Trackers & Background Ad Services ---
+com.jio.stbadservice
+com.jio.systemstats
+com.rjil.podlogservice
+com.jio.adc.aka
+com.jio.adc.embedded
+com.jio.smartmemorymanager
+com.jio.appoptimizer
+com.jio.backgroundscheduler
+com.jio.stb.remotediagnose
+com.jio.bioscopecontentservice
+com.jio.stbwidget
+com.jiostb.inactivitytimer
+com.jiostb.fti
+com.jio.universalsetup
+com.rjil.jio.stb.commandreceiver
+com.jio.screensaver
+com.jio.stb.screensaver
+com.teamviewer.quicksupport.addon.jio_stb
+
+# --- [3] Jio SSO Login & Account Nag Services ---
+com.media.jio.sso.stb
+com.jio.profileutility
+com.jio.controlcentre
+com.jio.stb.bot
+com.jio.stb.jioservice
+
+# --- [4] Locked Stock Launcher ---
+com.iwedia.ui.rjio.launcher.reliance
+com.jio.stb.hotellauncher
+
+# --- [5] Bundled Jio Bloatware Apps ---
+com.jio.store
+com.jio.media.jiotvplus
+com.jio.media.livetv
+com.jiotv.sonyliv
+com.jio.media.jiobeats
+com.jio.mymusic.app
+com.jio.myjiotv
+com.jio.media.jionewsstb
+com.jio.jiocloudpc
+com.jio.jiopay
+com.jio.jiocall
+com.jio.yt
+com.jio.web
+com.jiostb.jiogames
+com.jio.product.exploremyremote
+com.aksys.jiogamepad
