@@ -120,6 +120,13 @@ adb shell settings put secure accessibility_enabled 1
 
 ---
 
+## 🤝 Credits & Acknowledgments
+
+1. **ak_0o7** and **Sandip Bhadoriya** for the ACS script
+2. **Otus9051** for consolidating ACS script and `unlock.sh`
+
+---
+
 ## ⚖️ Disclaimer
 
 * This repository is published strictly for educational, security research, and hardware recovery purposes.
